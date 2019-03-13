@@ -1,6 +1,8 @@
 # egg-codis
 
-[node-codis](http://github.com/wefrond/node-codis) for egg.
+[node-codis](http://github.com/wefront/node-codis) for egg.
+
+[中文说明](http://github.com/wefront/egg-codis/blob/master/README.zh_CN.md)
 
 ## Install
 

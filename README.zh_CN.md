@@ -1,5 +1,6 @@
 # egg-codis
-Egg [node-codis](http://github.com/wefrond/node-codis) 插件.
+
+Egg [node-codis](http://github.com/wefront/node-codis) 插件.
 
 [English Document](http://github.com/wefront/egg-codis/blob/master/README.md)
 
