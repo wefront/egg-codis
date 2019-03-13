@@ -38,12 +38,6 @@
     "pkgfiles": "egg-bin pkgfiles",
     "autod": "autod"
   },
-  "files": [
-    "app.js",
-    "agent.js",
-    "config",
-    "app"
-  ],
   "ci": {
     "version": "8, 10"
   },
