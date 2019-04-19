@@ -1,5 +1,5 @@
 var codis = require('./lib/codis')
 
 module.exports = app => {
-  codis(app)
+  if (app.config.codis.app) codis(app)
 }
