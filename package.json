@@ -1,6 +1,6 @@
 {
   "name": "egg-codis",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Node-codis for egg.",
   "eggPlugin": {
     "name": "codis"
@@ -14,7 +14,7 @@
     "redis"
   ],
   "dependencies": {
-    "node-codis": "^1.0.2"
+    "node-codis": "^1.0.5"
   },
   "devDependencies": {
     "autod": "^3.0.1",
