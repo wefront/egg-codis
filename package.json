@@ -1,6 +1,6 @@
 {
   "name": "egg-codis",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Node-codis for egg.",
   "eggPlugin": {
     "name": "codis"
@@ -13,8 +13,10 @@
     "node-codis",
     "redis"
   ],
+  "typings": "./index.d.ts",
+  "types": "./index.d.ts",
   "dependencies": {
-    "node-codis": "^1.0.5"
+    "node-codis": "^1.0.9"
   },
   "devDependencies": {
     "autod": "^3.0.1",
